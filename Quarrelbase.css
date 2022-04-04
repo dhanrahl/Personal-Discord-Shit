@@ -5,14 +5,14 @@
     ------------------------------------------  */
 
 /* Imports */
-@import "https://leeprky.github.io/themes/BaseStuff/alt-color.css";
-@import "https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css";
-@import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
+@import url(https://leeprky.github.io/themes/BaseStuff/alt-color.css);
+@import url(https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css);
+@import url(https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css);
 @import url(https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css);
 @import url(https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css);
-@import "https://leeprky.github.io/themes/Ovel/imports/10-background/body-background.css";
+@import url(https://leeprky.github.io/themes/Ovel/imports/10-background/body-background.css);
 
-@import "https://leeprky.github.io/themes/Ovel/imports/07-extra/version.css";
+@import url(https://leeprky.github.io/themes/Ovel/imports/07-extra/version.css);
 
 
    #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_quarrel-176,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
